@@ -1,0 +1,171 @@
+2022-06-09 14:20:20,436: http://localhost:8080/log/: get: INFO: Receive request
+2022-06-09 14:20:20,437: http://localhost:8080/log/: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 14:20:20,689: http://localhost:8080/log/: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 14:20:20,689: http://localhost:8080/log/: get: INFO: Response status: 200
+2022-06-09 14:40:35,502: http://localhost:8080/log/: get: INFO: Receive request
+2022-06-09 14:40:35,503: http://localhost:8080/log/: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 14:40:35,787: http://localhost:8080/log/: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 14:40:35,787: http://localhost:8080/log/: get: INFO: Response status: 200
+2022-06-09 14:40:40,595: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 14:40:40,596: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 14:40:40,598: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 14:40:40,605: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 14:40:51,234: http://localhost:8080/: post: INFO: Receive request
+2022-06-09 14:40:51,234: http://localhost:8080/: post: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 14:40:51,237: http://localhost:8080/: post: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 14:40:52,743: http://localhost:8080/: post: INFO: Response status: 200
+2022-06-09 14:42:24,392: http://localhost:8080/: post: INFO: Receive request
+2022-06-09 14:42:24,393: http://localhost:8080/: post: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 14:42:24,658: http://localhost:8080/: post: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 14:42:26,205: http://localhost:8080/: post: INFO: Response status: 200
+2022-06-09 14:54:36,790: http://localhost:8080/: post: INFO: Receive request
+2022-06-09 14:54:36,790: http://localhost:8080/: post: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 14:54:37,64: http://localhost:8080/: post: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 14:54:38,663: http://localhost:8080/: post: INFO: Response status: 200
+2022-06-09 14:54:40,784: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 14:54:40,786: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 14:54:40,790: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 14:54:40,795: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 14:54:46,225: http://localhost:8080/log/: get: INFO: Receive request
+2022-06-09 14:54:46,227: http://localhost:8080/log/: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 14:54:46,230: http://localhost:8080/log/: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 14:54:46,230: http://localhost:8080/log/: get: INFO: Response status: 200
+2022-06-09 16:23:19,862: http://localhost:8080/log/: get: INFO: Receive request
+2022-06-09 16:23:19,863: http://localhost:8080/log/: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 16:23:20,123: http://localhost:8080/log/: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 16:23:20,124: http://localhost:8080/log/: get: INFO: Response status: 200
+2022-06-09 16:23:21,770: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 16:23:21,771: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 16:23:21,776: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 16:23:21,784: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 16:23:24,767: http://localhost:8080/log/: get: INFO: Receive request
+2022-06-09 16:23:24,768: http://localhost:8080/log/: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 16:23:24,771: http://localhost:8080/log/: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 16:23:24,771: http://localhost:8080/log/: get: INFO: Response status: 200
+2022-06-09 16:23:39,514: http://localhost:8080/: post: INFO: Receive request
+2022-06-09 16:23:39,514: http://localhost:8080/: post: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 16:23:39,517: http://localhost:8080/: post: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 16:23:41,13: http://localhost:8080/: post: INFO: Response status: 200
+2022-06-09 17:13:51,905: http://localhost:8080/: post: INFO: Receive request
+2022-06-09 17:13:51,906: http://localhost:8080/: post: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 17:13:52,171: http://localhost:8080/: post: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 17:13:53,711: http://localhost:8080/: post: INFO: Response status: 200
+2022-06-09 17:13:56,859: http://localhost:8080/log/: get: INFO: Receive request
+2022-06-09 17:13:56,861: http://localhost:8080/log/: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 17:13:56,870: http://localhost:8080/log/: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 17:13:56,871: http://localhost:8080/log/: get: INFO: Response status: 200
+2022-06-09 17:14:01,518: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 17:14:01,519: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 17:14:01,521: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 17:14:01,526: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:32:00,627: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:32:00,628: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:32:00,911: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:32:00,916: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:36:45,770: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:36:45,771: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:36:45,776: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:36:45,784: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:42:21,37: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:42:21,37: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:42:21,304: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:46:06,665: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:46:06,666: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:46:06,959: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:46:06,965: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:46:32,615: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:46:32,616: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:46:32,619: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:46:32,622: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:47:24,404: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:47:24,406: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:47:24,698: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:47:24,703: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:47:29,384: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:47:29,385: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:47:29,388: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:47:29,391: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:48:57,891: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:48:57,891: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:48:58,165: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:49:30,804: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:49:30,804: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:49:31,124: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:49:31,131: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:53:52,207: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:53:52,211: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:53:52,472: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:53:52,477: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:56:06,470: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:56:06,471: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:56:06,740: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:56:06,745: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:56:47,99: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:56:47,100: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:56:47,577: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:56:47,582: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 18:57:02,98: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a38: get: INFO: Receive request
+2022-06-09 18:57:02,98: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a38: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:57:02,101: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a38: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:57:02,102: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a38: get: DEBUG: DB entity Image with uuid 308a6f33-1090-43c8-928e-9e0afdc7a38 not found
+2022-06-09 18:57:02,103: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a38: get: INFO: Response status: 404
+2022-06-09 18:59:38,386: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a38: get: INFO: Receive request
+2022-06-09 18:59:38,386: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a38: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:59:38,704: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a38: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:59:38,708: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a38: get: DEBUG: DB entity Image with uuid 308a6f33-1090-43c8-928e-9e0afdc7a38 not found
+2022-06-09 18:59:38,709: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a38: get: INFO: Response status: 404
+2022-06-09 18:59:54,510: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 18:59:54,510: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 18:59:54,513: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 18:59:54,517: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 19:00:29,758: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 19:00:29,759: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:00:30,100: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:00:30,105: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 19:00:48,618: http://localhost:8080/: post: INFO: Receive request
+2022-06-09 19:00:48,619: http://localhost:8080/: post: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:00:48,622: http://localhost:8080/: post: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:00:50,187: http://localhost:8080/: post: INFO: Response status: 200
+2022-06-09 19:01:02,672: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: Receive request
+2022-06-09 19:01:02,672: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:01:02,675: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:01:02,679: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: Response status: 200
+2022-06-09 19:01:39,537: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: Receive request
+2022-06-09 19:01:39,537: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:01:39,804: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:01:39,808: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: Response status: 200
+2022-06-09 19:01:44,982: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 19:01:44,982: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:01:44,985: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:01:44,987: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 19:02:07,292: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 19:02:07,292: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:02:07,568: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:02:07,586: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 19:03:48,511: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 19:03:48,512: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:03:48,809: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:03:48,825: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 19:04:25,613: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 19:04:25,614: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:04:26,70: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:04:26,88: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 200
+2022-06-09 19:06:39,323: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 19:06:39,324: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:06:39,584: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:06:39,589: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: ERROR: Image file 308a6f33-1090-43c8-928e-9e0afdc7a3c8 not found
+2022-06-09 19:06:39,590: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 404
+2022-06-09 19:11:23,291: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Receive request
+2022-06-09 19:11:23,291: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:11:23,596: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:11:23,600: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: ERROR: Image file 308a6f33-1090-43c8-928e-9e0afdc7a3c8 not found
+2022-06-09 19:11:23,600: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c8: get: INFO: Response status: 404
+2022-06-09 19:11:27,432: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: Receive request
+2022-06-09 19:11:27,432: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:11:27,434: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:11:27,439: http://localhost:8080/658c25fd-4e59-4e42-ac71-f02451e90cf8: get: INFO: Response status: 200
+2022-06-09 19:11:31,894: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: INFO: Receive request
+2022-06-09 19:11:31,894: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:11:31,897: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:11:31,898: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: DEBUG: DB entity Image with uuid 308a6f33-1090-43c8-928e-9e0afdc7a3c not found
+2022-06-09 19:11:31,899: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: INFO: Response status: 404

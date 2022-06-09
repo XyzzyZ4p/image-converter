@@ -1,0 +1,20 @@
+project:
+  name: image_converter
+  encoding: utf-8
+app:
+  host: localhost
+  port: 8080
+db:
+  type: postgresql
+  async: asyncpg
+  host: localhost
+  port: 5432
+  user: postgres
+  password: 1234
+  name: image_converter
+images:
+  path: data/images
+  format: JPEG
+  extension: jpg
+logging:
+  path: logs/log

@@ -1,0 +1,21 @@
+formatters:
+  request:
+    format: "%(asctime)s,%(msecs)d: %(route)s: %(functionName)s: %(levelname)s: %(message)s"
+    datefmt: "%Y-%m-%d %H:%M:%S"
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: request
+    stream: ext://sys.stdout
+  file:
+    class: logging.FileHandler
+    level: DEBUG
+    formatter: request
+loggers:
+  image_converter:
+      level: DEBUG
+      handlers: [console, file]
+      propagate: yes
+root:
+  level: INFO
