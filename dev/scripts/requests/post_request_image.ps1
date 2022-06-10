@@ -2,7 +2,7 @@ $server = "localhost"
 $port = "8080"
 $header = "Content-Type: multipart/form-data"
 $token = $(Get-Content $PSScriptRoot/../../../token)
-$file = "test-image.png"
+$file =  "$PSScriptRoot/test-image.png"
 $params = 'data={"quality"="1","x"="250","y"="200"}'
 $type = 'type=text/plain'
 $bad_token = $(Get-Content $PSScriptRoot/bad_token)

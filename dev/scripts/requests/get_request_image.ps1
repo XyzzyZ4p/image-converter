@@ -7,3 +7,4 @@ $bad_token = $(Get-Content $PSScriptRoot/bad_token)
 
 curl -X GET "$server`:$port/$file" -H "Authorization: Bearer $token" --output "$output"
 # curl -X GET "$server`:$port/$file" -H "Authorization: Bearer $bad_token" --output "$output"
+

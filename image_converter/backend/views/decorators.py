@@ -63,7 +63,13 @@ def auth(method):
     @functools.wraps(method)
     async def inner(ref, request):
         extra = {'route': request.url, 'functionName': method.__name__}
-        _token = request.headers['Authorization']
+        _token = request.headers.get('Authorization')
+        if not _token:
+            status = HTTPStatus.FORBIDDEN
+            log.info(f'User not provide token',
+                     extra={'route': request.url, 'functionName': method.__name__})
+            return Response(status=status, body=create_code_description(status))
+
         log.info(f'Auth Request {_token}', extra=extra)
 
         token = _token.split(' ')

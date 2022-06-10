@@ -169,3 +169,62 @@
 2022-06-09 19:11:31,897: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
 2022-06-09 19:11:31,898: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: DEBUG: DB entity Image with uuid 308a6f33-1090-43c8-928e-9e0afdc7a3c not found
 2022-06-09 19:11:31,899: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: INFO: Response status: 404
+2022-06-09 19:19:33,779: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: INFO: Receive request
+2022-06-09 19:19:33,781: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:19:34,50: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:19:34,55: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: DEBUG: DB entity Image with uuid 308a6f33-1090-43c8-928e-9e0afdc7a3c not found
+2022-06-09 19:19:34,56: http://localhost:8080/308a6f33-1090-43c8-928e-9e0afdc7a3c: get: INFO: Response status: 404
+2022-06-09 19:19:41,489: http://localhost:8080/: post: INFO: Receive request
+2022-06-09 19:19:41,490: http://localhost:8080/: post: INFO: Auth Request Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95
+2022-06-09 19:19:41,492: http://localhost:8080/: post: INFO: User Bearer 1de07d82-fb32-4411-9bc9-bc9fe054ef95 Authorized
+2022-06-09 19:19:43,18: http://localhost:8080/: post: INFO: Response status: 200
+2022-06-10 22:32:12,233: http://localhost:8080/: post: INFO: Receive request
+2022-06-10 22:32:12,234: http://localhost:8080/: post: INFO: Auth Request Bearer f2728e98-573e-4442-820d-81ec0dec0de4
+2022-06-10 22:32:12,506: http://localhost:8080/: post: INFO: User Bearer f2728e98-573e-4442-820d-81ec0dec0de4 Authorized
+2022-06-10 22:32:14,106: http://localhost:8080/: post: ERROR: Throws exception while Image converting: FileNotFoundError
+2022-06-10 22:32:14,109: http://localhost:8080/: post: DEBUG: DB entity Image with uuid 5bc8eba8-c191-45ef-ab89-12ce090c4fd6 deleted
+2022-06-10 22:32:14,111: http://localhost:8080/: post: INFO: Response status: 422
+2022-06-10 22:32:59,986: http://localhost:8080/: post: INFO: Receive request
+2022-06-10 22:32:59,986: http://localhost:8080/: post: INFO: Auth Request Bearer f2728e98-573e-4442-820d-81ec0dec0de4
+2022-06-10 22:32:59,989: http://localhost:8080/: post: INFO: User Bearer f2728e98-573e-4442-820d-81ec0dec0de4 Authorized
+2022-06-10 22:33:01,576: http://localhost:8080/: post: ERROR: Throws exception while Image converting: FileNotFoundError
+2022-06-10 22:33:01,577: http://localhost:8080/: post: DEBUG: DB entity Image with uuid 828ed8de-54c8-4e81-8002-5f057ee15ac4 deleted
+2022-06-10 22:33:01,578: http://localhost:8080/: post: INFO: Response status: 422
+2022-06-10 22:33:20,476: http://localhost:8080/: post: INFO: Receive request
+2022-06-10 22:37:41,625: http://localhost:8080/: post: INFO: Receive request
+2022-06-10 22:37:41,625: http://localhost:8080/: post: INFO: Auth Request Bearer f2728e98-573e-4442-820d-81ec0dec0de4
+2022-06-10 22:37:41,879: http://localhost:8080/: post: INFO: User Bearer f2728e98-573e-4442-820d-81ec0dec0de4 Authorized
+2022-06-10 22:37:43,496: http://localhost:8080/: post: ERROR: Throws exception while Image converting: FileNotFoundError
+2022-06-10 22:37:43,499: http://localhost:8080/: post: DEBUG: DB entity Image with uuid b4cdb405-e3ff-4db9-bd49-eb2ab26cec72 deleted
+2022-06-10 22:37:43,501: http://localhost:8080/: post: INFO: Response status: 422
+2022-06-10 22:38:30,738: http://localhost:8080/: post: INFO: Receive request
+2022-06-10 22:38:30,739: http://localhost:8080/: post: INFO: Auth Request Bearer f2728e98-573e-4442-820d-81ec0dec0de4
+2022-06-10 22:38:30,741: http://localhost:8080/: post: INFO: User Bearer f2728e98-573e-4442-820d-81ec0dec0de4 Authorized
+2022-06-10 22:38:32,257: http://localhost:8080/: post: ERROR: Throws exception while Image converting: FileNotFoundError
+2022-06-10 22:38:32,259: http://localhost:8080/: post: DEBUG: DB entity Image with uuid df3fad4c-3e95-4a37-8a1d-9fc89fbe41a3 deleted
+2022-06-10 22:38:32,260: http://localhost:8080/: post: INFO: Response status: 422
+2022-06-10 22:38:42,466: http://localhost:8080/: post: INFO: Receive request
+2022-06-10 22:38:42,466: http://localhost:8080/: post: INFO: User not provide token
+2022-06-10 22:38:42,466: http://localhost:8080/: post: INFO: Response status: 403
+2022-06-10 22:42:14,961: http://localhost:8080/: post: INFO: Receive request
+2022-06-10 22:42:14,961: http://localhost:8080/: post: INFO: Auth Request Bearer f2728e98-573e-4442-820d-81ec0dec0de4
+2022-06-10 22:42:14,964: http://localhost:8080/: post: INFO: User Bearer f2728e98-573e-4442-820d-81ec0dec0de4 Authorized
+2022-06-10 22:42:16,558: http://localhost:8080/: post: ERROR: Throws exception while Image converting: FileNotFoundError
+2022-06-10 22:42:16,560: http://localhost:8080/: post: DEBUG: DB entity Image with uuid cbd93297-af54-4719-8391-db56c2f588dd deleted
+2022-06-10 22:42:16,562: http://localhost:8080/: post: INFO: Response status: 422
+2022-06-10 22:46:15,862: http://localhost:8080/: post: INFO: Receive request
+2022-06-10 22:46:15,863: http://localhost:8080/: post: INFO: Auth Request Bearer f2728e98-573e-4442-820d-81ec0dec0de4
+2022-06-10 22:46:15,865: http://localhost:8080/: post: INFO: User Bearer f2728e98-573e-4442-820d-81ec0dec0de4 Authorized
+2022-06-10 22:46:17,383: http://localhost:8080/: post: ERROR: Throws exception while Image converting: FileNotFoundError
+2022-06-10 22:46:17,384: http://localhost:8080/: post: DEBUG: DB entity Image with uuid a8387dc8-6856-4bc7-ae9a-485c09497e04 deleted
+2022-06-10 22:46:17,385: http://localhost:8080/: post: INFO: Response status: 422
+2022-06-10 22:46:45,216: http://localhost:8080/: post: INFO: Receive request
+2022-06-10 22:46:45,216: http://localhost:8080/: post: INFO: Auth Request Bearer f2728e98-573e-4442-820d-81ec0dec0de4
+2022-06-10 22:46:45,219: http://localhost:8080/: post: INFO: User Bearer f2728e98-573e-4442-820d-81ec0dec0de4 Authorized
+2022-06-10 22:46:46,733: http://localhost:8080/: post: ERROR: Throws exception while Image converting: FileNotFoundError
+2022-06-10 22:46:46,735: http://localhost:8080/: post: DEBUG: DB entity Image with uuid 27610a56-8884-4303-bacf-fb48dfcdc726 deleted
+2022-06-10 22:46:46,736: http://localhost:8080/: post: INFO: Response status: 422
+2022-06-10 22:47:09,213: http://localhost:8080/: post: INFO: Receive request
+2022-06-10 22:47:09,213: http://localhost:8080/: post: INFO: Auth Request Bearer f2728e98-573e-4442-820d-81ec0dec0de4
+2022-06-10 22:47:09,216: http://localhost:8080/: post: INFO: User Bearer f2728e98-573e-4442-820d-81ec0dec0de4 Authorized
+2022-06-10 22:47:10,820: http://localhost:8080/: post: INFO: Response status: 200
